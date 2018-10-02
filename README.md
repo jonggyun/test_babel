@@ -34,7 +34,6 @@ package.json 파일에 dependencies 추가
 
 ```
 tsc --init --declaration --allowSyntheticDefaultImports --target esnext --outDir lib
-
 ```
 
 outDir 옵션을 통해 저장될 라이브러리 설정 가능
@@ -90,3 +89,5 @@ package.json 파일의 script를 수정
     "build:js": "babel src --out-dir lib --extensions \".ts,.tsx\" --source-maps inline"
 }
 ```
+
+출처 : [Babel github](https://github.com/Microsoft/TypeScript-Babel-Starter)
