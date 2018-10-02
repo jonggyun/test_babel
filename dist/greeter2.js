@@ -1,0 +1,9 @@
+"use strict";
+
+var greeter2 = function greeter2(person) {
+  return "Hello, " + person;
+};
+
+var user1 = "Jane User";
+document.body.innerHTML = greeter2(user);
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3NyYy9ncmVldGVyMi50cyJdLCJuYW1lcyI6WyJncmVldGVyMiIsInBlcnNvbiIsInVzZXIxIiwiZG9jdW1lbnQiLCJib2R5IiwiaW5uZXJIVE1MIiwidXNlciJdLCJtYXBwaW5ncyI6Ijs7QUFBQSxJQUFNQSxRQUFRLEdBQUcsU0FBWEEsUUFBVyxDQUFDQyxNQUFEO0FBQUEsU0FBb0IsWUFBWUEsTUFBaEM7QUFBQSxDQUFqQjs7QUFFQSxJQUFJQyxLQUFLLEdBQUcsV0FBWjtBQUVBQyxRQUFRLENBQUNDLElBQVQsQ0FBY0MsU0FBZCxHQUEwQkwsUUFBUSxDQUFDTSxJQUFELENBQWxDIiwic291cmNlc0NvbnRlbnQiOlsiY29uc3QgZ3JlZXRlcjIgPSAocGVyc29uOiBzdHJpbmcpID0+IFwiSGVsbG8sIFwiICsgcGVyc29uO1xuXG5sZXQgdXNlcjEgPSBcIkphbmUgVXNlclwiO1xuXG5kb2N1bWVudC5ib2R5LmlubmVySFRNTCA9IGdyZWV0ZXIyKHVzZXIpOyJdfQ==
